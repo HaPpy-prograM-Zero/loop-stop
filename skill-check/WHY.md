@@ -1,0 +1,4 @@
+**Real problem:** people copy skills from the internet and install them without reading them, and their own skills are written once and never reviewed.
+**Before:** you skim a file and hope, or you find out a skill never triggers only after it fails in a real task.
+**After:** a one-screen verdict with the exact lines that matter and at most three quality fixes. The file under review is treated as data, so a hostile SKILL.md cannot give the reviewer orders.
+**Tested:** by hand, following the steps on a planted 9-line test skill (one line that overrides the user and hides actions, one that downloads and runs a script, one that copies a private key, plus a folder name that did not match `name` and a vague description). Result: DO NOT INSTALL, three safety lines quoted, three quality fixes, and a note that the downloaded script was not read. Not run in a fresh session and not measured with other users. It does not read external code and says so.

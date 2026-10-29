@@ -1,6 +1,7 @@
 # Free skills for Claude Code / Skills gratis para Claude Code
 
 Three plain-text skills, MIT license. Copy the folder you want into `~/.claude/skills/` and restart the session.
+
 Tres skills en texto plano, licencia MIT. Copia la carpeta que quieras en `~/.claude/skills/` y reinicia la sesión.
 
 | Folder | What it does | Qué hace |
@@ -10,6 +11,7 @@ Tres skills en texto plano, licencia MIT. Copia la carpeta que quieras en `~/.cl
 | `ask-before-building/` | Up to 5 questions, a 5-line agreement, then code | Hasta 5 preguntas, un acuerdo de 5 líneas y después código |
 
 The rest of this page covers `loop-stop`. Each skill has its own `SKILL.md` and `WHY.md`.
+
 El resto de esta página trata de `loop-stop`. Cada skill tiene su `SKILL.md` y su `WHY.md`.
 
 ---

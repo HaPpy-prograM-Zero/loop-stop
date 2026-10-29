@@ -15,7 +15,9 @@ The rest of this page covers `loop-stop`. Each skill has its own `SKILL.md` and 
 
 El resto de esta página trata de `loop-stop`. Cada skill tiene su `SKILL.md` y su `WHY.md`.
 
-Guide / Guía: https://happy-program-zero.github.io/how-to-write-a-claude-code-skill · https://happy-program-zero.github.io/como-escribir-una-skill-claude-code
+Guides (EN): [write a SKILL.md](https://happy-program-zero.github.io/how-to-write-a-claude-code-skill) · [permissions](https://happy-program-zero.github.io/claude-code-permissions-starter) · [hooks](https://happy-program-zero.github.io/claude-code-hooks-three-to-paste) · [CLAUDE.md, skill, hook or subagent?](https://happy-program-zero.github.io/claude-md-vs-skill-vs-hook) · [subagents](https://happy-program-zero.github.io/write-a-claude-code-subagent)
+
+Guías (ES): [escribir una skill](https://happy-program-zero.github.io/como-escribir-una-skill-claude-code) · [permisos](https://happy-program-zero.github.io/permisos-claude-code) · [hooks](https://happy-program-zero.github.io/hooks-claude-code-tres-para-pegar) · [¿cuál usar?](https://happy-program-zero.github.io/claude-md-skill-o-hook-cual-usar) · [subagentes](https://happy-program-zero.github.io/escribir-un-subagente-claude-code)
 
 ---
 

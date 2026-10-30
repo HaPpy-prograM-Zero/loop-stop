@@ -39,7 +39,7 @@ The format is checked and the skill loads in a fresh Claude Code session. We hav
 MIT (see `LICENSE`). Use it, copy it, change it.
 
 ### More
-This is 1 of the 7 skills in the Multi-AI Pack for Claude Code: https://plainskills.gumroad.com/l/multi-ai-pack-complete
+This is 1 of the 7 skills in the Multi-AI Pack for Claude Code: https://plainskillszero0.gumroad.com/l/multi-ai-pack-complete
 
 ## Español
 
@@ -57,7 +57,7 @@ El formato está comprobado y la skill carga en una sesión nueva de Claude Code
 MIT (ver `LICENSE`). Úsala, cópiala, cámbiala.
 
 ### Más
-Es 1 de las 7 skills del Multi-AI Pack para Claude Code: https://plainskills.gumroad.com/l/multi-ai-pack-complete
+Es 1 de las 7 skills del Multi-AI Pack para Claude Code: https://plainskillszero0.gumroad.com/l/multi-ai-pack-complete
 
 ---
 Independent project, not affiliated with Anthropic. "Claude" and "Claude Code" are trademarks of Anthropic. Not investment advice. / Proyecto independiente, sin relación con Anthropic. «Claude» y «Claude Code» son marcas de Anthropic. No es consejo de inversión.

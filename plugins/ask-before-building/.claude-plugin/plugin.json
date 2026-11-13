@@ -1,0 +1,17 @@
+{
+  "name": "ask-before-building",
+  "version": "1.0.0",
+  "description": "Ask up to 5 questions with a recommended answer, agree the plan in 5 lines, and only then write code.",
+  "author": {
+    "name": "Plain Skills"
+  },
+  "homepage": "https://happy-program-zero.github.io",
+  "repository": "https://github.com/happy-program-zero/loop-stop",
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "skills",
+    "planning",
+    "requirements"
+  ]
+}

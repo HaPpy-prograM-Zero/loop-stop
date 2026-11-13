@@ -1,0 +1,18 @@
+{
+  "name": "loop-stop",
+  "version": "1.0.0",
+  "description": "Give every long-running sub-task a brief, a limit and a stop rule, so a loop does not burn your quota.",
+  "author": {
+    "name": "Plain Skills"
+  },
+  "homepage": "https://happy-program-zero.github.io/stop-claude-code-loops",
+  "repository": "https://github.com/happy-program-zero/loop-stop",
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "skills",
+    "agents",
+    "loops",
+    "quota"
+  ]
+}

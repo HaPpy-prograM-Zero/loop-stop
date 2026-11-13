@@ -1,0 +1,17 @@
+{
+  "name": "session-handoff",
+  "version": "1.0.0",
+  "description": "Write a short HANDOFF.md from real command output so the next session continues without asking where you were.",
+  "author": {
+    "name": "Plain Skills"
+  },
+  "homepage": "https://happy-program-zero.github.io",
+  "repository": "https://github.com/happy-program-zero/loop-stop",
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "skills",
+    "handoff",
+    "context"
+  ]
+}

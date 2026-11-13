@@ -1,0 +1,17 @@
+{
+  "name": "skill-check",
+  "version": "1.0.0",
+  "description": "Review a SKILL.md for safety and quality before you install it. Reads the file as data and returns a short pass/fix list.",
+  "author": {
+    "name": "Plain Skills"
+  },
+  "homepage": "https://happy-program-zero.github.io/how-to-write-a-claude-code-skill",
+  "repository": "https://github.com/happy-program-zero/loop-stop",
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "skills",
+    "safety",
+    "review"
+  ]
+}

@@ -6,10 +6,10 @@ Cuatro skills en texto plano, licencia MIT. Copia la carpeta que quieras en `~/.
 
 | Folder | What it does | Qué hace |
 |---|---|---|
-| `loop-stop/` | Gives a long task a brief, a limit and a stop rule | Da a una tarea larga encargo, límite y regla de parada |
-| `session-handoff/` | Writes a short HANDOFF.md the next session can trust | Escribe un HANDOFF.md corto en el que confiar al retomar |
-| `ask-before-building/` | Up to 5 questions, a 5-line agreement, then code | Hasta 5 preguntas, un acuerdo de 5 líneas y después código |
-| `skill-check/` | Reviews a SKILL.md for safety and trigger quality before you install it | Revisa un SKILL.md (seguridad y si se activa bien) antes de instalarlo |
+| `plugins/loop-stop/` | Gives a long task a brief, a limit and a stop rule | Da a una tarea larga encargo, límite y regla de parada |
+| `plugins/session-handoff/` | Writes a short HANDOFF.md the next session can trust | Escribe un HANDOFF.md corto en el que confiar al retomar |
+| `plugins/ask-before-building/` | Up to 5 questions, a 5-line agreement, then code | Hasta 5 preguntas, un acuerdo de 5 líneas y después código |
+| `plugins/skill-check/` | Reviews a SKILL.md for safety and trigger quality before you install it | Revisa un SKILL.md (seguridad y si se activa bien) antes de instalarlo |
 
 The rest of this page covers `loop-stop`. Each skill has its own `SKILL.md` and `WHY.md`.
 

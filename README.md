@@ -1,8 +1,15 @@
 # Free skills for Claude Code / Skills gratis para Claude Code
 
-Four plain-text skills, MIT license. Copy the folder you want into `~/.claude/skills/` and restart the session.
+**Install in Claude Code (2 commands):**
+```
+/plugin marketplace add happy-program-zero/loop-stop
+/plugin install loop-stop@plain-skills-free
+```
+Other skills from the same catalog: `session-handoff`, `ask-before-building`, `skill-check` (same command, change the name).
 
-Cuatro skills en texto plano, licencia MIT. Copia la carpeta que quieras en `~/.claude/skills/` y reinicia la sesión.
+Manual install: copy `plugins/loop-stop/skills/loop-stop/` into `~/.claude/skills/` and restart the session.
+
+**Instalar en Claude Code (2 comandos):** los mismos de arriba. A mano: copia `plugins/loop-stop/skills/loop-stop/` en `~/.claude/skills/` y reinicia la sesión.
 
 | Folder | What it does | Qué hace |
 |---|---|---|
